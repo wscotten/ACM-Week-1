@@ -1,0 +1,9 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "main": "index.mjs",
+  "dependencies": {
+    "eslint": "^4.7.1",
+    "lodash": "^4.17.4"
+  }
+}
